@@ -1,0 +1,12 @@
+name = "ammon-resume-api"
+main = "worker/index.ts"
+compatibility_date = "2025-01-01"
+
+# Non-secret config. Change this to your real domain once you have one —
+# it's what the Worker checks incoming requests against.
+[vars]
+ALLOWED_ORIGIN = "http://localhost:5173"
+
+# The API key is NOT set here. Set it with:
+#   npx wrangler secret put ANTHROPIC_API_KEY
+# (or Cloudflare dashboard -> your Worker -> Settings -> Variables and Secrets)
