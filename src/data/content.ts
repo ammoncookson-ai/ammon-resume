@@ -11,10 +11,10 @@ export const profile = {
   tagline:
     'I take large, fragmented product organizations and turn them into disciplined, AI-fluent delivery engines.',
   eyebrow: 'Program & AI Transformation Leader · Salt Lake City',
-  photo: '/headshot.jpg', // TODO: add your photo at public/headshot.jpg
+  photo: `${import.meta.env.BASE_URL}headshot.jpg`, // TODO: add your photo at public/headshot.jpg
   linkedin: 'https://www.linkedin.com/in/ammonc/',
   github: '', // no GitHub on file — Footer hides this link automatically when empty
-  resumePdf: '/resume.pdf', // TODO: add a PDF export at public/resume.pdf
+  resumePdf: `${import.meta.env.BASE_URL}resume.pdf`, // TODO: add a PDF export at public/resume.pdf
   contactEmail: 'ammon.cookson@icloud.com',
 }
 
