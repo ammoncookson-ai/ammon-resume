@@ -51,11 +51,14 @@ Ammon Cookson — Program Management Leader & AI Transformation Leader.
 Based in Salt Lake City. 25+ years of experience.
 
 CURRENT ROLE
-PMO Leader, Cisco (2019–Present). Strategic direction for a 500+ person
-product development organization across a 12-product portfolio in Cisco's
-contact center business. Coaches project leads on delivery best practices;
-drove the on-prem-to-cloud transformation using LEAN Agile principles.
-Enterprise AI adoption and change work reaches a 4,000+ person org.
+Program Management Leader, Cisco Systems (Aug 2019–Present). Strategic
+direction for a 500+ person product development organization across a
+12-product portfolio in Cisco's contact center business. Coaches project
+leads on delivery best practices; drove the on-prem-to-cloud transformation
+using SAFe 5.0 Agile principles. Built a Mixpanel-based usage telemetry
+system used by Product and CSM teams to inform feature investment and
+maximize retention. Enterprise AI adoption and change work reaches a
+4,000+ person org.
 
 CONCURRENT / RECENT
 - Technology Program & Execution Management, Pul Alliance for Digital Health
@@ -64,49 +67,68 @@ CONCURRENT / RECENT
 - Strategic Advisor, Global Child Nutrition Effort (2024–Present).
 
 CAREER HISTORY
-- Founder, VenturoWest Inc. (2018–2019): built operating infrastructure for a
-  mortgage/real-estate business, integrating custom software with Domo,
-  CINC, and Zillow.
-- Program Manager → Consulting Manager → Principal Consultant, Domo, Inc.
-  (2013–2018): ran Domo University; led a 100-person consulting org across
-  500+ concurrent projects; architected a user-profiling analytics platform
-  spanning 20M+ rows across 20 data sources (Domo, Adobe Analytics, Google
-  Analytics, LMS) used as an early-warning system for account health; built
-  simulation-based onboarding that cut new-hire ramp time from 90 days to 30;
-  delivered SaaS analytics engagements for clients including GE and NBC.
-- VP, Healthcare Quality Catalyst, LLC (2012–2013): applied LEAN methodologies
-  to hospital quality outcomes, resource utilization, and patient safety.
-- GM Product/Engineering/Operations & Lead Program Integrator, GE Healthcare
-  (2005–2013): led engineering and operations for a cloud-based big data
-  healthcare analytics platform; built a safety/surveillance system that
-  processed billions of data points and delivered reports to the CDC every
-  24 hours during the H1N1 outbreak; served as global Lean Champion training
-  engineering teams on lean software development.
+- Founder, VenturoWest, Inc. (Nov 2018–Aug 2019): built and deployed a
+  software solution and consulting services for the real estate industry,
+  integrating a property-search feature based on lifestyle attributes for
+  buyers and financial performance metrics for investors. Also served as
+  Acting COO for client Houser, Inc., driving 3x growth through a
+  data-driven product strategy.
+- Program Manager, Domo University, Domo, Inc. (Mar 2016–Nov 2018): built a
+  platform capturing user events from 20 data sources to profile ideal
+  users and flag declining usage, driving an 11% retention improvement;
+  developed onboarding/training programs that cut new-hire ramp from 90 to
+  30 days.
+- Operations Program Manager, Domo, Inc. (Sep 2014–Mar 2016): drove product
+  innovation and operational excellence for a 100-person, $10M consulting
+  organization managing 500+ concurrent projects; designed the "Project
+  Hub" system, cutting implementation cycle times by 25%.
+- Principal Consultant, Domo, Inc. (Apr 2013–Aug 2014): led large-scale
+  analytics engagements for Fortune 500 clients including GE, NBC
+  Universal, Warner Bros., and Apria Healthcare, achieving a 90% retention
+  rate against a 50% company average. Authored a patent supporting a
+  healthcare client's adoption of Domo.
+- Vice President, Healthcare Quality Catalyst, LLC (May 2012–Jan 2013):
+  strategic and operational leadership for customer engagements, building
+  processes for streamlined program portfolio management.
+- GM, Engineering & Operations, GE Healthcare (Feb 2005–Feb 2012): directed
+  product development, engineering, and operations for cloud-based big-data
+  healthcare analytics products; built a safety/surveillance system that
+  processed billions of data points and delivered a daily H1N1 report to
+  the CDC; piloted Lean methodologies across the global engineering
+  organization; co-authored patents and led development of new analytics
+  products, driving $10M in revenue growth over three years.
+- VP Product Development, ProWorks; Program/Product/R&D Manager, Sage
+  Software (prior to 2005).
 - Program Manager, Timberline Software (1997–2003): program and product
   management for the Platform Services Group — later documented in the
   published case study "Lean Software Management: Timberline Inc."
 
 EDUCATION
-- MBA, Entrepreneurship — F.W. Olin Graduate School of Business (2007–2009)
-- Executive Course, Strategic Innovation — MIT Sloan School of Management (2007)
-- BS, Computer Information Systems — Western Governors University (2002–2004)
+- MBA, Entrepreneurship — F.W. Olin Graduate School of Business, Babson
+  College (2007–2009)
+- Executive Course, Strategic Innovation — MIT Sloan School of Management
+  (2007)
+- Senior Leadership Executive Training Certificate — GE Healthcare
+- BS, Computer Information Systems — Western Governors University
+  (2002–2004)
 
 CERTIFICATIONS (recent, AI-focused)
 Generative AI Collaboration White Belt (2025), AI Strategy Certificate,
-Data Science Green Belt (incl. Generative AI Green Belt), ICAgile Certified
-Professional - Leading with Agility.
+Data Science Green Belt (Cisco).
 
-PATENTS: Generalized configurator software system; Systems and methods for
-patient re-identification.
+PATENTS: US Patent 11,469,747 (Pending) — Systems and Methods in Patient
+Re-Identification. US Patent 716,876 — Generalized Configuration Software.
 
 SKILLS
 Superpowers: large-scale program management (500+ person orgs, 500+
-concurrent projects); LEAN/Agile transformation (on-prem to cloud, global
-Lean Champion training); data platform architecture for business insight
-(20M-row, 20-source builds); onboarding & L&D systems design.
+concurrent projects); Agile/Lean transformation (on-prem to cloud, SAFe
+5.0, global Lean Champion training); data platform architecture for
+business insight (20M-row, 20-source builds); onboarding & L&D systems
+design.
 Competent: hands-on technical fluency (BS in Computer Information Systems;
 built/integrated systems directly at VenturoWest); regulated/healthcare
-industry delivery.
+industry delivery; P&L and vendor management (Acting COO, Houser Inc.; GM,
+Engineering & Operations, GE Healthcare).
 Honest gap: hands-on IC software engineering — recent roles have focused on
 program management and driving organizational transformation, not day-to-day
 coding.
