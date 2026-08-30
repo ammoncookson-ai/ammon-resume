@@ -1,5 +1,6 @@
 import Header from './components/Header'
 import Hero from './components/Hero'
+import AITransformationSection from './components/AITransformationSection'
 import WorkSection from './components/WorkSection'
 import ResumeSection from './components/ResumeSection'
 import SkillsSection from './components/SkillsSection'
@@ -12,6 +13,7 @@ export default function App() {
       <Header />
       <main>
         <Hero />
+        <AITransformationSection />
         <WorkSection />
         <ResumeSection />
         <SkillsSection />

@@ -150,6 +150,19 @@ export const resume: ResumeRole[] = [
   },
 ]
 
+export const aiTransformation = {
+  heading: 'AI & Digital Transformation',
+  summary:
+    'Five years of leading technology-driven organizational change at scale \u2014 most recently AI adoption \u2014 built on a track record of doing the same with cloud migration and data platforms before "AI transformation" was the industry\'s term for it.',
+  points: [
+    'Own Cisco\'s AI adoption and process-transformation mandate across a 4,000+ person contact center organization \u2014 current, active scope, not aspirational.',
+    'Drove the prior large-scale change effort this depends on: the on-prem-to-cloud transformation of a 500+ engineer, 12-product portfolio, using LEAN Agile principles.',
+    'Architected a 20M-row, 20-source data platform at Domo \u2014 genuine data-pipeline fluency underneath the process leadership, not just familiarity with dashboards.',
+    'Designed the onboarding system that cut new-hire ramp from 90 to 30 days \u2014 the same capability-building discipline that determines whether an AI rollout actually sticks.',
+    'Formal AI credentialing in progress: AI Strategy Certificate, Generative AI Collaboration (2025), Data Science Green Belt incl. Generative AI Green Belt.',
+  ],
+}
+
 export const skillsMatrix = {
   superpowers: [
     'Large-scale program management (500+ person orgs, 500+ concurrent projects)',
