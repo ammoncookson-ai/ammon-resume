@@ -26,11 +26,12 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          # Set this in the repo's Settings -> Secrets and variables -> Actions
-          # -> Variables (not Secrets — it's public, it's just a URL) once your
-          # Worker is deployed. Falls back to localhost if unset (build still
-          # succeeds; the Ask/Fit section just won't reach a real backend).
-          VITE_API_BASE: ${{ vars.VITE_API_BASE }}
+          # Set in the repo's Settings -> Secrets and variables -> Actions.
+          # It's not sensitive data (it's just a public URL) but it's stored
+          # as a repository secret here, so we read it from `secrets`.
+          # Falls back to localhost if unset (build still succeeds; the
+          # Ask/Fit section just won't reach a real backend).
+          VITE_API_BASE: ${{ secrets.VITE_API_BASE }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
